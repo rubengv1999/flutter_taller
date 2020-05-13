@@ -7,7 +7,7 @@ import 'package:charts_flutter/flutter.dart' as charts;
 
 class Bars extends StatefulWidget{
 
-  @override
+  StatefulWidget@override
   State<StatefulWidget> createState() => BarsState();
 
 }
